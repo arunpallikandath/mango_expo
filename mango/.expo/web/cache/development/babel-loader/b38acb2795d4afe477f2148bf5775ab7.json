@@ -1,0 +1,1 @@
+{"ast":null,"code":"import App from \"./src\";","map":{"version":3,"sources":["/Users/arunpallikandath/projects/react/mango/mango/App.js"],"names":["App"],"mappings":"AAAA,OAAOA,GAAP","sourcesContent":["import App from './src';\n"]},"metadata":{},"sourceType":"module"}
