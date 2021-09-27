@@ -1,0 +1,14 @@
+{
+  "name": "voicetotext",
+  "version": "1.0.0",
+  "description": "Voice to Text for Mango",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "A",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-transcribe": "^3.1.0"
+  }
+}
